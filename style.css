@@ -17,6 +17,10 @@ h1 {
   border: 3px solid gray;
 }
 
+a {
+  text-decoration: none;
+  color: blue;
+}
 body {
   text-align: center;
   border-radius: 25px;
